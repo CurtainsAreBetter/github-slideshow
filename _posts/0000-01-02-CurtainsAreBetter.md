@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your test
+Memes get old so I won't add one
 Use the left arrow to go back!
